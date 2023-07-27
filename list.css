@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url("https://media.gettyimages.com/id/1077341604/photo/to-do-list-on-notebook-page-with-laptop-and-coffee-mug.jpg?s=612x612&w=0&k=20&c=Hwl49khRzjX4mgyq4PP0Zt2VUCeU5ZeTkOumQKHIOWE=");
+      background-repeat: no-repeat;
+      background-size:cover;
+      margin: 0;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  #container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  #taskInput {
+    padding: 5px;
+    width: 300px;
+  }
+  
+  #addButton {
+    margin-left: 10px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  button {
+    padding: 5px 10px;
+  }
+  
